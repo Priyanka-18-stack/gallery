@@ -1,16 +1,27 @@
-# React + Vite
+# Assignment - React UI Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains the implementation of the UI assignment provided in Figma. The project is built using **React**  and styled with Tailwind CSS.
 
-Currently, two official plugins are available:
+## Project Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The assignment focuses on replicating a UI design from Figma with high accuracy. Key requirements include:
 
-## React Compiler
+- **Responsive layout for laptop screens** (width ≥ 768px)  
+- **Left half of the screen remains empty**  
+- **Right half contains two main widgets**:  
+  1. **Tabs Widget** – has three tabs: "About Me", "Experiences", and "Recommended". Tabs are clickable and display corresponding content.  
+  2. **Gallery Widget** – allows adding more photos via the "Add Image" button.  
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### UI Details
 
-## Expanding the ESLint configuration
+- Creative buttons
+- Widgets accurately aligned relative to each other (right/left padding consistent)  
+- Fully responsive layout for laptops, while left half stays empty  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Technologies Used
+
+- **React**  
+- **Styling/UI Libraries**: Tailwind CSS
+- **Version Control**: Git & GitHub  
+
+git clone https://github.com/your-username/your-repo.git
