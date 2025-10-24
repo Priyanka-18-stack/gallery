@@ -2,6 +2,8 @@
 
 This repository contains the implementation of the UI assignment provided in Figma. The project is built using **React**  and styled with Tailwind CSS.
 
+## Live site:https://gallery-lovat-chi.vercel.app/
+
 ## Project Overview
 
 The assignment focuses on replicating a UI design from Figma with high accuracy. Key requirements include:
