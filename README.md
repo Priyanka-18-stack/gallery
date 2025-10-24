@@ -12,7 +12,7 @@ The assignment focuses on replicating a UI design from Figma with high accuracy.
 - **Left half of the screen remains empty**  
 - **Right half contains two main widgets**:  
   1. **Tabs Widget** – has three tabs: "About Me", "Experiences", and "Recommended". Tabs are clickable and display corresponding content.  
-  2. **Gallery Widget** – allows adding more photos via the "Add Image" button.  
+  2. **Gallery Widget** – allows adding more photos via the "Add Image" button, Users can click **Prev** to go to the previous item and **Next** to go to the next item.  
 
 ### UI Details
 
