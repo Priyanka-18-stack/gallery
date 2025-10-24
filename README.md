@@ -22,6 +22,9 @@ The assignment focuses on replicating a UI design from Figma with high accuracy.
 
 - **React**  
 - **Styling/UI Libraries**: Tailwind CSS
-- **Version Control**: Git & GitHub  
-
-git clone https://github.com/your-username/your-repo.git
+- **Version Control**: Git & GitHub
+## Acknowledgment
+This assignment helped me enhance my skills in:  
+- Building responsive UI components with React
+- Implementing interactive elements such as tabs and dynamic galleries  
+- Applying precise styling, spacing, and alignment to replicate a Figma design  
